@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langchain-core
+langchain-community
+langchain-groq
+transformers
+faiss-cpu
+PyPDF2
+requests
+pydantic
+google
